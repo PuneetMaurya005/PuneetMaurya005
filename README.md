@@ -19,7 +19,6 @@ class PuneetMaurya:
     name       = "Puneet Maurya"
     username   = "puneetmaurya005"
     education  = "Bachelor of Computer Applications (BCA)"
-    location   = "Ludhiana, Punjab, India 🇮🇳"
     
     skills     = ["HTML", "CSS", "JavaScript", "React", "Python"]
     learning   = ["Python (Advanced)", "AI/ML", "LLMs", "AI Agents"]
