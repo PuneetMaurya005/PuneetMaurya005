@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,00ff88&height=200&section=header&text=Puneet%20Maurya&fontSize=60&fontColor=00ff88&fontAlignY=38&desc=BCA%20%7C%20Web%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,00ff88&height=200&section=header&text=Puneet%20Maurya&fontSize=60&fontColor=00ff88&fontAlignY=38&desc=BCA%20%7C%20Web%20Developer%20%7C%20AI&descAlignY=60&descColor=ffffff&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -50,32 +50,6 @@ class PuneetMaurya:
 ![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00ff88)
 
 </div>
----
-
-## 🎯 Current Focus
-
-```
-🔭 Currently Learning  →  Python & AI/ML fundamentals
-🤖 Building Towards    →  AI tools & autonomous agents
-🌐 Background In       →  Full-stack web development
-📚 Studying            →  BCA (Bachelor of Computer Applications)
-⚡ Fun Fact            →  I believe the future belongs to AI builders
-```
-
----
-
-## 🌱 My Learning Roadmap
-
-```
-[✅] HTML, CSS, JavaScript
-[✅] React & Frontend Development  
-[🔄] Python — In Progress
-[⏳] Machine Learning — Coming Soon
-[⏳] LLMs & Prompt Engineering — Coming Soon
-[⏳] AI Agents & Automation — The Goal 🎯
-```
-
----
 
 <div align="center">
 
@@ -83,7 +57,6 @@ class PuneetMaurya:
 
 [![GitHub](https://img.shields.io/badge/GitHub-puneetmaurya005-0d1117?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/puneetmaurya005)
 
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,00ff88,0d1117&height=120&section=footer&animation=fadeIn" />
 
